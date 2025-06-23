@@ -1,6 +1,5 @@
 How Do I Contact WOW TV Customer Service Easily?    
 ============================================
- 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
